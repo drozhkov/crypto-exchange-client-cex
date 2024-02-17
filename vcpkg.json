@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "boost-asio",
+    "boost-json",
+    "boost-beast",
+    "boost-uuid",
+    "boost-iostreams",
+    "openssl"
+  ],
+  "builtin-baseline": "66b4b34d99ab272fcf21f2bd12b616e371c6bb31"
+}
